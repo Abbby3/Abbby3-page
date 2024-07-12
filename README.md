@@ -4,7 +4,7 @@
 
 ## Demo
 
-[Portfolio page](https://abbby3.github.io/)
+[Portfolio page](https://abbby3.github.io)
 
 ## Description
 
