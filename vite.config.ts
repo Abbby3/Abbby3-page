@@ -6,7 +6,7 @@ dotenv.config();
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/",
+  base: "/Abbby3-page",
   plugins: [react()],
   define: {
     "process.env": process.env,
